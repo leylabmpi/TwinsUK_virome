@@ -1,0 +1,15 @@
+lr--r--r--   1 ftp      anonymous       17 Mar 15  2016 README.txt -> ../all/README.txt
+dr-xr-xr-x 631 ftp      anonymous    53248 Nov 19 11:57 archaea
+lr--r--r--   1 ftp      anonymous       47 Nov 19 10:25 assembly_summary_refseq.txt -> ../ASSEMBLY_REPORTS/assembly_summary_refseq.txt
+lr--r--r--   1 ftp      anonymous       58 Nov 19 10:25 assembly_summary_refseq_historical.txt -> ../ASSEMBLY_REPORTS/assembly_summary_refseq_historical.txt
+dr-xr-xr-x 21560 ftp      anonymous  1716224 Nov 19 11:57 bacteria
+dr-xr-xr-x 293 ftp      anonymous    24576 Nov 19 11:57 fungi
+dr-xr-xr-x 177 ftp      anonymous    16384 Nov 19 11:57 invertebrate
+lr--r--r--   1 ftp      anonymous       37 Nov 19 10:25 mitochondrion -> ../../../refseq/release/mitochondrion
+dr-xr-xr-x 110 ftp      anonymous    12288 Nov 19 11:57 plant
+lr--r--r--   1 ftp      anonymous       31 Nov 19 10:25 plasmid -> ../../../refseq/release/plasmid
+lr--r--r--   1 ftp      anonymous       31 Nov 19 10:25 plastid -> ../../../refseq/release/plastid
+dr-xr-xr-x  82 ftp      anonymous     8192 Nov 19 11:57 protozoa
+dr-xr-xr-x 121 ftp      anonymous    12288 Nov 19 11:57 vertebrate_mammalian
+dr-xr-xr-x 146 ftp      anonymous    12288 Nov 19 11:57 vertebrate_other
+dr-xr-xr-x 7970 ftp      anonymous   675840 Nov 19 11:57 viral
